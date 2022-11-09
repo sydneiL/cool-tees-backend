@@ -1,4 +1,4 @@
 # cooltees-backend
 
 
-[API LIVE DEMO]. (https://cooltees-backend.anugrahmasihapp.repl.co/)
+[API LIVE DEMO]. (https://cool-tees-backend.sydneilang.repl.co/)
